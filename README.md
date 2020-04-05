@@ -1,8 +1,3 @@
-//sudo chmod +x arcoreimg
-
-process.env['PATH'] =
-process.env['PATH'] + ':' + './';
-
 # node-arcoreimg
 
 A very simple wrapper for [arcoreimg](https://developers.google.com/ar/develop/java/augmented-images/arcoreimg).
