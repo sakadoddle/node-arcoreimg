@@ -4,7 +4,7 @@
   "description": "A wrapper for arcoreimg rating from google",
   "author": {
     "name": "Rikee Maharjan",
-    "email": "rikee14@gmail.com",
+    "email": "rikee14@gmail.com"
   },
   "engines": {
     "node": ">=10"
