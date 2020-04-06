@@ -1,5 +1,5 @@
 {
-  "name": "arcoreimg",
+  "name": "node-arcoreimg",
   "version": "1.0.0",
   "description": "A wrapper for arcoreimg rating from google",
   "author": {
